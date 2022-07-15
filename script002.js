@@ -6,4 +6,4 @@ function checkIntegers(a, b) {
   return a > 0 ? b < 0 : b > 0;
 }
 
-console.log(checkIntegers(2, -3));
+console.log(checkIntegers(-2, 3));
